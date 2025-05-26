@@ -1,0 +1,3 @@
+fastapi
+uvicorn
+llama-cpp-python==0.2.24  # version matching gguf model support
